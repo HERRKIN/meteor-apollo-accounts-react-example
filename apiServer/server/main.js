@@ -1,1 +1,1 @@
-import './imports'
+import './imports/apollo'
