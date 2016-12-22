@@ -1,4 +1,5 @@
 import {Meteor} from 'meteor/meteor'
+
 export default function (root, args, context) {
   console.log(context)
   if (!context.userId) {
