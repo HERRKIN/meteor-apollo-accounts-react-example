@@ -1,4 +1,0 @@
-#adds a todo
-addTodo (
-  text: String
-  ):Todo
