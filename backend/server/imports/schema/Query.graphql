@@ -1,0 +1,6 @@
+#Main type (the root of all queries)
+type Query {
+  #fetch the logged in User
+  me: User
+  allTodos:[Todo]
+}

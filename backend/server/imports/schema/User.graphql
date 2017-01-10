@@ -1,0 +1,16 @@
+#Defines a user type and its attributes
+type User {
+  _id: ID
+  emails: [Email]
+  profile: UserProfile
+  todos: [Todo]
+}
+#Defines a user profile attributes
+type UserProfile {
+  name: String
+}
+#defines Email attributes
+type Email {
+  address: String
+  verified: Boolean
+}
