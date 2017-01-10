@@ -1,0 +1,6 @@
+#Defines a user type and its attributes
+type Todo {
+  _id: ID
+  text: String!
+  completed:Boolean!
+}

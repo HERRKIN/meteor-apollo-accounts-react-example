@@ -24,3 +24,5 @@ orionsoft:graphql-compiler
 nicolaslopezj:apollo-accounts
 orionsoft:apollo
 promise
+aldeed:simple-schema
+aldeed:collection2
