@@ -1,0 +1,2 @@
+#Toggle completed value of a todo
+toggleCompleted (todoId:String):Todo
